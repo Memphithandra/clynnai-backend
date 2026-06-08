@@ -1,5 +1,7 @@
 # ClynnAI Backend
 
+English | [简体中文](README.zh-CN.md)
+
 ClynnAI Backend is a portable FastAPI service for the ClynnAI Android app. It provides OpenAI-compatible chat and image proxy endpoints, a stateful conversation API, an internal LangGraph-based agent runtime, Firecrawl web tools, upload handling, ASR forwarding, and a small admin configuration page.
 
 ## Features

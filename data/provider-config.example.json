@@ -1,0 +1,9 @@
+{
+  "upstream_base_url": "https://api.example.com/v1",
+  "upstream_model": "example-model",
+  "upstream_api_key": "",
+  "admin_token": "change-me",
+  "app_token": "change-me",
+  "firecrawl_api_key": "",
+  "asr_model": "whisper-1"
+}

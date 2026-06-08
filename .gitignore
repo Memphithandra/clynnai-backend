@@ -1,0 +1,31 @@
+# Secrets and local runtime config
+.env
+.env.*
+!.env.example
+data/*.json
+!data/*.example.json
+
+# Python caches and virtualenvs
+.venv/
+__pycache__/
+*.py[cod]
+*.pyo
+.pytest_cache/
+.ruff_cache/
+.mypy_cache/
+
+# Build artifacts
+*.egg-info/
+build/
+dist/
+
+# Local logs and databases
+*.log
+*.db
+*.sqlite
+*.sqlite3
+
+# OS/editor files
+.DS_Store
+.vscode/
+.idea/
